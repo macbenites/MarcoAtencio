@@ -17,10 +17,12 @@ Lover of new technologies and self-taught learning.
 
 Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
+- 💻 I'm currently working on MERN Stack
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🚀 Always ready to collaborate for Dev Experiments
+- 🎨 Using this svg and Figma I made 👉
+- 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
+- 💬 Ask me about anything [here](https://github.com/MarcoAtencio/MarcoAtencio/issues)
 
 **Languages and Tools:**  
 <p align="center">
