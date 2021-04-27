@@ -6,7 +6,7 @@ I’m a computer systems engineer student at [UPN](https://www.upn.edu.pe/).
 Lover of new technologies and self-taught learning.
 
 <a href="https://www.linkedin.com/in/marcoatencio/">
-  <img align="left" alt="MarcoAtencio | Linkedin" width="21px" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=780&h=408&crop=1" />
+  <img align="left" alt="MarcoAtencio | Linkedin" width="21px" src="https://www.estudiorodrigo.com/wp-content/uploads/2019/08/Logo-Linkedin.png" />
 </a>
 <a href="https://twitter.com/MarcoAtencio">
   <img align="left" alt="MarcoAtencio | Twitter" width="21px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
