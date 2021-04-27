@@ -11,11 +11,8 @@ Lover of new technologies and self-taught learning.
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-
 <br />
 <br />
-
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
 
 - 💻 I'm currently working on MERN Stack
 - 🌱 I’m currently learning Typescript
