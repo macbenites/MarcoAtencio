@@ -23,6 +23,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 **Languages and Tools:**  
 
+<code><img title="React" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/react-original.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
