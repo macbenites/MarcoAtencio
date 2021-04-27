@@ -5,6 +5,9 @@ I’m a computer systems engineer student at [UPN](https://www.upn.edu.pe/).
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 Lover of new technologies and self-taught learning.
 
+<a href="https://www.linkedin.com/in/marcoatencio/">
+  <img align="left" alt="MarcoAtencio | Linkedin" width="21px" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/12/linkedin.png?w=780&h=408&crop=1" />
+</a>
 <a href="https://twitter.com/MarcoAtencio">
   <img align="left" alt="MarcoAtencio | Twitter" width="21px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
 </a>
