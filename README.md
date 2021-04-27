@@ -6,10 +6,7 @@ I’m a computer systems engineer student at [UPN](https://www.upn.edu.pe/).
 Lover of new technologies and self-taught learning.
 
 <a href="https://twitter.com/MarcoAtencio">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="MarcoAtencio | Twitter" width="21px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
 </a>
 <br />
 <br />
