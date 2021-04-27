@@ -10,7 +10,7 @@ Lover of new technologies and self-taught learning.
 <a href="https://discord.gg/VK4k3Br">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
-
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <br />
 <br />
 
