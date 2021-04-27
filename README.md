@@ -49,10 +49,18 @@ Lover of new technologies and self-taught learning.
 --->
 **Most used Distributions:**
 <p align="center">
+
+<a href="https://www.debian.org">
   <code>
-    <img src="https://git.centos.org/centos/Artwork/issue/raw/files/b6297a113fff51e7267c3d4b3f23091334d64e0ce1a0549ac96bd2fb9faf0a6b-centos_knot1b.png" width="24" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Openlogo-debianV2.svg" width="24" />
   </code>
+</a>
   
+<a href="https://www.centos.org">
+  <code>
+  <img src="https://git.centos.org/centos/Artwork/issue/raw/files/b6297a113fff51e7267c3d4b3f23091334d64e0ce1a0549ac96bd2fb9faf0a6b-centos_knot1b.png" width="24" />
+  </code>
+</a>
 </p>
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
