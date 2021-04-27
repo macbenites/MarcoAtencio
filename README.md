@@ -47,7 +47,13 @@ Lover of new technologies and self-taught learning.
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
-
+**Most used Distributions:**
+<p align="center">
+  <code>
+    <img src="https://git.centos.org/centos/Artwork/issue/raw/files/b6297a113fff51e7267c3d4b3f23091334d64e0ce1a0549ac96bd2fb9faf0a6b-centos_knot1b.png" width="24" />
+  </code>
+  
+</p>
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
